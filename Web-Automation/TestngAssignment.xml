@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation">
+   <test name="test cases">
+      <classes>
+         <class name="com.assignmenttestng.Assignment1"></class>
+          <class name="com.assignmenttestng.Assignment2"></class>
+           <class name="com.assignmenttestng.Assignment3"></class>
+            <class name="com.assignmenttestng.Assignment4"></class>
+           <class name="com.assignmenttestng.Assignment5"></class>
+          <class name="com.assignmenttestng.Assignment6"></class>
+          <class name="com.assignmenttestng.Assignment7"></class>
+           <class name="com.assignmenttestng.Assignment8"></class>
+            <class name="com.assignmenttestng.Assignment9"></class>
+      </classes>
+   </test>
+</suite>
