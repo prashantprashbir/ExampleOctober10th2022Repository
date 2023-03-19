@@ -15,7 +15,7 @@ public class AutoItDemo1 {
 			Runtime.getRuntime().exec("\"D:\\Autoit\\practice1.exe\"");
 		}catch(Exception e)
 		{
-			e.printStackTrace();
+			
 		}
 	}
 

@@ -13,7 +13,7 @@ public class NavigateDemo1 {
 
 	public static void main(String[] args) {
 		launchBrowser();
-		navigate();
+		
 
 	}
 
