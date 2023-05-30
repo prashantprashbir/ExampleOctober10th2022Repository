@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="testcases">
-<test name="users and products">
-	<classes>
-		<class name="com.users.Users"></class>
-		<class name="com.products.Products"></class>	
-	</classes>
-</test>
-</suite>
